@@ -1,0 +1,30 @@
+﻿<xapCache source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Bin\x86\Debug\Yolo_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/5/2014 10:07:25 AM">
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\obj\x86\Debug\Yolo.dll" archivePath="Yolo.dll" lastWriteTime="4/5/2014 10:07:20 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12/4/2013 8:22:02 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12/4/2013 8:22:02 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/4/2013 8:22:02 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/4/2013 8:22:02 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12/4/2013 8:22:02 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12/4/2013 8:22:02 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Data\mainData" archivePath="Data\mainData" lastWriteTime="4/5/2014 10:03:41 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="4/5/2014 10:03:50 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Data\PlayerConnectionConfigFile" archivePath="Data\PlayerConnectionConfigFile" lastWriteTime="4/5/2014 10:03:41 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="12/4/2013 8:39:34 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="4/5/2014 10:03:41 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="4/5/2014 10:03:41 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/5/2014 10:07:21 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/4/2013 8:22:02 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/4/2013 8:22:02 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="4/5/2014 10:03:50 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Players\x86\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="12/11/2013 5:29:06 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="4/5/2014 10:03:47 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Players\x86\Release\UnityEngineDelegates.winmd" archivePath="UnityEngineDelegates.winmd" lastWriteTime="12/11/2013 5:29:10 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Players\x86\Release\UnityEngineProxy.dll" archivePath="UnityEngineProxy.dll" lastWriteTime="12/11/2013 5:29:12 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Players\x86\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="12/11/2013 5:38:56 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Players\x86\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="12/11/2013 5:29:10 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="4/5/2014 10:03:48 AM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Players\x86\Release\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="12/11/2013 5:29:06 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Players\x86\Release\UnityEngineDelegates.dll" archivePath="UnityEngineDelegates.dll" lastWriteTime="12/11/2013 5:29:10 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Players\x86\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="12/11/2013 5:39:44 PM" />
+  <file source="C:\Users\Johny\Documents\Yolo\WindowsPhone\Yolo\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/5/2014 10:07:22 AM" />
+</xapCache>
