@@ -47,9 +47,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\External\CBX Game\CBX.TileMapping\Unity\TileMap.cs" />
+     <Compile Include="Assets\Scripts\BackgroundColliderDetector.cs" />
+     <Compile Include="Assets\Scripts\BallSticker.cs" />
+     <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\LimitVelocity.cs" />
-     <Compile Include="Assets\Scripts\VerticalMovement.cs" />
-     <Compile Include="Assets\Scripts\WindowGenerator.cs" />
+     <Compile Include="Assets\Scripts\ObjectDestroyer.cs" />
+     <Compile Include="Assets\Scripts\StageGenerator.cs" />
+     <Compile Include="Assets\Scripts\VerticalScroller.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
